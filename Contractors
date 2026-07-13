@@ -1,0 +1,201 @@
+<!-- contractors/index.html Part 1/3 -->
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Become a Contractor | Storage Solutions</title>
+
+    <link rel="stylesheet" href="../style.css">
+
+</head>
+
+<body>
+
+<header class="hero">
+
+    <nav class="navbar">
+
+        <div class="logo">
+
+            Storage Solutions
+
+        </div>
+
+        <ul class="nav-links">
+
+            <li>
+
+                <a href="../index.html">Home</a>
+
+            </li>
+
+            <li>
+
+                <a href="#apply">Apply</a>
+
+            </li>
+
+        </ul>
+
+    </nav>
+
+    <div class="hero-content">
+
+        <h1>
+
+            Partner With Storage Solutions
+
+        </h1>
+
+        <p>
+
+            Join our contractor network and help build, maintain,
+
+            and improve storage facilities in your area.
+
+        </p>
+
+        <a href="#apply" class="btn">
+
+            Apply Now
+
+        </a>
+
+    </div>
+
+</header>
+
+<section class="about">
+
+    <h2>
+
+        Why Become a Contractor?
+
+    </h2>
+
+    <p>
+
+        We work with reliable contractors who provide quality
+
+        construction, maintenance, repairs, and improvements.
+
+        Our goal is to create long-term partnerships with
+
+        skilled professionals.
+
+    </p>
+
+</section>
+
+<section class="services">
+
+    <h2>
+
+        Contractor Opportunities
+
+    </h2>
+
+    <div class="service-container">
+
+        <div class="card">
+
+            <h3>
+
+                Construction
+
+            </h3>
+
+            <p>
+
+                Help build and expand storage facilities.
+
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>
+
+                Maintenance
+
+            </h3>
+
+            <p>
+
+                Provide repairs and upkeep services.
+
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>
+
+                Improvements
+
+            </h3>
+
+            <p>
+
+                Help upgrade and improve existing properties.
+
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+<section class="features">
+
+    <h2>
+
+        Contractor Benefits
+
+    </h2>
+
+    <div class="feature-container">
+
+        <div class="feature">
+
+            <h3>
+
+                Long-Term Work
+
+            </h3>
+
+            <p>
+
+                Build a relationship with a growing storage company
+
+                and receive future opportunities.
+
+            </p>
+
+        </div>
+
+        <div class="featu
+<footer>
+
+    <p>
+
+        © 2026 Storage Solutions. All rights reserved.
+
+    </p>
+
+</footer>
+
+<script src="../script.js"></script>
+
+</body>
+
+</html>
