@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>QuoteScout Contractor Plans</title>
+
+<link rel="stylesheet" href="contractor-style.css">
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<div class="logo">
+    <span>Quote</span>Scout
+</div>
+
+<a href="index.html">
+    Back
+</a>
+
+</header>
+
+
+
+
+<section class="pricing-page">
+
+
+<h1>
+Choose Your Contractor Plan
+</h1>
+
+<p>
+Grow your business by connecting with homeowners looking for services.
+</p>
+
+
+
+
+<div class="plans">
+
+
+
+<!-- STARTER -->
+
+<div class="plan-card">
+
+
+<h2>
+Starter
+</h2>
+
+
+<div class="price">
+$50<span>/month</span>
+</div>
+
+
+<ul>
+
+<li>✓ Contractor profile</li>
+
+<li>✓ Access to customer opportunities</li>
+
+<li>✓ Basic business visibility</li>
+
+<li>✓ Lead notifications</li>
+
+</ul>
+
+
+<button>
+Choose Starter
+</button>
+
+
+</div>
+
+
+
+
+
+
+<!-- PREMIUM -->
+
+
+<div class="plan-card premium">
+
+
+<div class="badge">
+POPULAR
+</div>
+
+
+<h2>
+Premium
+</h2>
+
+
+<div class="price">
+$120<span>/month</span>
+</div>
+
+
+<ul>
+
+<li>✓ Everything in Starter</li>
+
+<li>✓ Priority placement</li>
+
+<li>✓ Increased visibility</li>
+
+<li>✓ Premium growth tools</li>
+
+</ul>
+
+
+<button>
+Choose Premium
+</button>
+
+
+</div>
+
+
+
+</div>
+
+
+
+</section>
+
+
+
+</body>
+
+</html>
