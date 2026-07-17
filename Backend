@@ -1,0 +1,71 @@
+/*
+
+====================================
+
+ QUOTESCOUT PAYMENT CONFIGURATION
+
+====================================
+
+Subscription Plans:
+
+Starter:
+
+$50/month
+
+Premium:
+
+$120/month
+
+This file stores the plan information
+
+that the private payment server will use.
+
+DO NOT put secret payment keys here.
+
+====================================
+
+*/
+
+const plans = {
+
+    starter: {
+
+        name: "QuoteScout Starter",
+
+        price: 50,
+
+        interval: "month"
+
+    },
+
+    premium: {
+
+        name: "QuoteScout Premium",
+
+        price: 120,
+
+        interval: "month"
+
+    }
+
+};
+
+function getPlan(planName){
+
+    if(plans[planName]){
+
+        return plans[planName];
+
+    }
+
+    return null;
+
+}
+
+module.exports = {
+
+    plans,
+
+    getPlan
+
+};
