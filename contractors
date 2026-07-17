@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>QuoteScout For Contractors | Get More Customers</title>
+
+<meta name="description" content="Join QuoteScout and connect with homeowners actively searching for roofing, plumbing, HVAC, remodeling and other professional services.">
+
+<link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+<header class="header">
+
+    <div class="logo">
+        <span>Quote</span>Scout
+    </div>
+
+    <nav>
+        <a href="../index.html">Homeowners</a>
+        <a href="#benefits">Benefits</a>
+        <a href="#services">Services</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#faq">FAQ</a>
+    </nav>
+
+    <a class="header-button" href="#join">
+        Join Now
+    </a>
+
+</header>
+
+<section class="hero">
+
+    <div class="hero-content">
+
+        <h1>
+            Get More Customers Without Chasing Leads
+        </h1>
+
+        <p>
+            QuoteScout connects contractors with homeowners actively looking
+            for services in their area. Spend less time searching for work and
+            more time completing profitable projects.
+        </p>
+
+        <a class="primary-button" href="#join">
+            Become A Partner
+        </a>
+
+        <div class="trust-row">
+            <div><strong>✓</strong> Qualified Leads</div>
+            <div><strong>✓</strong> More Jobs</div>
+            <div><strong>✓</strong> Monthly Growth</div>
+        </div>
+
+    </div>
+
+    <div class="hero-card">
+
+        <h3>Grow Faster</h3>
+
+        <p>
+            Join contractors building a steady stream of opportunities through
+            QuoteScout.
+        </p>
+
+        <div class="mini-service">📈 More Opportunities</div>
+        <div class="mini-service">🏠 Local Homeowners</div>
+        <div class="mini-service">💼 Better Visibility</div>
+        <div class="mini-service">🚀 Business Growth</div>
+
+    </div>
+
+</section>
+
+<section class="services">
+
+    <h2>
+        Why Contractors Join QuoteScout
+    </h2>
+
+    <p>
+        We help businesses focus on jobs instead of spending countless hours
+        searching for customers.
+    </p>
+
+    <div class="service-grid">
+
+        <div class="service-card">
+            <h3>Qualified Requests</h3>
+            <p>
+                Connect with homeowners actively looking for services.
+            </p>
+        </div>
+
+        <div class="service-card">
+            <h3>Save Marketing Time</h3>
+            <p>
+                Reduce time spent advertising and prospecting.
+            </p>
+        </div>
+
+        <div class="service-card">
+            <h3>Grow Revenue</h3>
+            <p>
+                Build a predictable flow of opportunities.
+            </p>
+        </div>
+
+        <div class="service-card">
+            <h3>Local Customers</h3>
+            <p>
+                Focus on projects within your service area.
+            </p>
+        </div>
+
+        <div class="service-card">
+            <h3>Easy Setup</h3>
+            <p>
+                Apply once and begin receiving opportunities.
+            </p>
+        </div>
+
+        <div class="service-card">
+            <h3>Scalable Growth</h3>
+            <p>
+                Increase your visibility as your business grows.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<section class="steps">
+
+    <h2>
+        How QuoteScout Works
+    </h2>
+
+    <div class="step-grid">
+
+        <div class="step">
+            <span>1</span>
+            <h3>Create A Profile</h3>
+            <p>
+                Tell us about your company and services.
+            </p>
+        </div>
+
+        <div class="step">
+            <span>2</span>
+            <h3>Receive Opportunities</h3>
+            <p>
+                We connect you with homeowners requesting help.
+            </p>
+        </div>
+
+        <div class="step">
+            <span>3</span>
+            <h3>Win More Jobs</h3>
+            <p>
+                Contact customers and grow your business.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<section id="services" class="services">
+
+    <h2>
+        Service Categories
+    </h2>
+
+    <p>
+        QuoteScout is designed to support many industries.
+    </p>
+
+    <div class="service-grid">
+
+        <div class="service-card"><h3>Roofing</h3></div>
+        <div class="service-card"><h3>Plumbing</h3></div>
+        <div class="service-card"><h3>HVAC</h3></div>
+        <div class="service-card"><h3>Electrical</h3></div>
+        <div class="service-card"><h3>Landscaping</h3></div>
+        <div class="service-card"><h3>Remodeling</h3></div>
+        <div class="service-card"><h3>Painting</h3></div>
+        <div class="service-card"><h3>Concrete</h3></div>
+        <div class="service-card"><h3>Cleaning</h3></div>
+        <div class="service-card"><h3>Tree Service</h3></div>
+        <div class="service-card"><h3>Junk Removal</h3></div>
+        <div class="service-card"><h3>Handyman</h3></div>
+
+    </div>
+
+</section>
+
+<section class="steps">
+
+    <h2>
+        Contractor Success Stories
+    </h2>
+
+    <div class="step-grid">
+
+        <div class="step">
+            <h3>Roofing Company</h3>
+            <p>
+                "QuoteScout helped us reach more homeowners and keep our schedule full."
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>HVAC Contractor</h3>
+            <p>
+                "A simple way to find opportunities without spending all day marketing."
+            </p>
+        </div>
+
+        <div class="step">
+            <h3>Remodeling Business</h3>
+            <p>
+                "More conversations with serious customers looking for help."
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<section id="pricing" class="services">
+
+    <h2>
+        Membership Options
+    </h2>
+
+    <p>
+        Flexible plans for businesses of every size.
+    </p>
+
+    <div class="service-grid">
+
+        <div class="service-card">
+            <h3>Starter</h3>
+            <p>
+                Ideal for smaller contractors looking to grow.
+            </p>
+        </div>
+
+        <div class="service-card">
+            <h3>Professional</h3>
+            <p>
+                Built for companies ready to scale.
+            </p>
+        </div>
+
+        <div class="service-card">
+            <h3>Enterprise</h3>
+            <p>
+                Designed for larger operations and multiple locations.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<section id="faq" class="services">
+
+    <h2>
+        Frequently Asked Questions
+    </h2>
+
+    <div class="service-grid">
+
+        <div class="service-card">
+            <h3>How do I receive leads?</h3>
+            <p>
+                Opportunities are matched to businesses based on services and location.
+            </p>
+        </div>
+
+        <div class="service-card">
+            <h3>Can I cancel anytime?</h3>
+            <p>
+                Membership options can be adjusted as your business changes.
+            </p>
+        </div>
+
+        <div class="service-card">
+            <h3>What services are accepted?</h3>
+            <p>
+                Roofing, plumbing, HVAC, remodeling and many more.
+            </p>
+        </div>
+
+    </div>
+
+</section>
+
+<section id="join" class="quote-section">
+
+    <div class="quote-box">
+
+        <h2>
+            Become A QuoteScout Partner
+        </h2>
+
+        <p>
+            Start connecting with homeowners looking for professional services.
+        </p>
+
+        <form>
+
+            <input type="text" placeholder="Business Name" required>
+
+            <input type="text" placeholder="Owner Name" required>
+
+            <input type="email" placeholder="Business Email" required>
+
+            <input type="tel" placeholder="Phone Number" required>
+
+            <select required>
+                <option>Select Service</option>
+                <option>Roofing</option>
+                <option>Plumbing</option>
+                <option>Electrical</option>
+                <option>HVAC</option>
+                <option>Landscaping</option>
+                <option>Remodeling</option>
+            </select>
+
+            <textarea placeholder="Tell us about your business"></textarea>
+
+            <button type="submit">
+                Apply To Join
+            </button>
+
+        </form>
+
+    </div>
+
+</section>
+
+<footer>
+
+    <div class="footer-logo">
+        QuoteScout
+    </div>
+
+    <p>
+        Helping contractors connect with customers.
+    </p>
+
+    <p class="copyright">
+        © 2026 QuoteScout. All rights reserved.
+    </p>
+
+</footer>
+
+<script src="../script.js"></script>
+
+</body>
+</html>
