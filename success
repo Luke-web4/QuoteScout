@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Request Submitted | QuoteScout</title>
+
+<link rel="stylesheet" href="style.css">
+
+<style>
+
+.success-page{
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:40px;
+    background:linear-gradient(135deg,#f5f9ff,#ffffff);
+}
+
+.success-card{
+    max-width:700px;
+    width:100%;
+    background:white;
+    padding:60px;
+    border-radius:20px;
+    text-align:center;
+    box-shadow:0 20px 60px rgba(0,0,0,.08);
+}
+
+.success-icon{
+    width:90px;
+    height:90px;
+    border-radius:50%;
+    background:#1677ff;
+    color:white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin:0 auto 25px;
+    font-size:42px;
+    font-weight:bold;
+}
+
+.success-card h1{
+    font-size:42px;
+    margin-bottom:20px;
+    color:#10233f;
+}
+
+.success-card p{
+    color:#667085;
+    margin-bottom:20px;
+    font-size:18px;
+    line-height:1.7;
+}
+
+.success-actions{
+    display:flex;
+    gap:15px;
+    justify-content:center;
+    flex-wrap:wrap;
+    margin-top:35px;
+}
+
+.primary-btn{
+    background:#1677ff;
+    color:white;
+    padding:15px 30px;
+    border-radius:10px;
+    font-weight:700;
+}
+
+.secondary-btn{
+    background:#eef4ff;
+    color:#1677ff;
+    padding:15px 30px;
+    border-radius:10px;
+    font-weight:700;
+}
+
+.timeline{
+    margin-top:40px;
+    text-align:left;
+}
+
+.timeline-item{
+    padding:15px 0;
+    border-bottom:1px solid #e5e7eb;
+}
+
+.timeline-item:last-child{
+    border-bottom:none;
+}
+
+.timeline-item strong{
+    display:block;
+    color:#10233f;
+    margin-bottom:5px;
+}
+
+@media(max-width:768px){
+
+.success-card{
+    padding:35px;
+}
+
+.success-card h1{
+    font-size:32px;
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="success-page">
+
+    <div class="success-card">
+
+        <div class="success-icon">
+            ✓
+        </div>
+
+        <h1>
+            Request Submitted Successfully
+        </h1>
+
+        <p>
+            Thank you for choosing QuoteScout.
+            Your request has been received and is being reviewed.
+        </p>
+
+        <p>
+            We will help connect you with contractors that match your project needs.
+        </p>
+
+        <div class="timeline">
+
+            <div class="timeline-item">
+                <strong>Step 1</strong>
+                Request received.
+            </div>
+
+            <div class="timeline-item">
+                <strong>Step 2</strong>
+                Matching contractors are identified.
+            </div>
+
+            <div class="timeline-item">
+                <strong>Step 3</strong>
+                Contractors review your project.
+            </div>
+
+            <div class="timeline-item">
+                <strong>Step 4</strong>
+                You receive quote opportunities.
+            </div>
+
+        </div>
+
+        <div class="success-actions">
+
+            <a href="index.html" class="primary-btn">
+                Back To Home
+            </a>
+
+            <a href="contractors/index.html" class="secondary-btn">
+                Contractor Sign Up
+            </a>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
