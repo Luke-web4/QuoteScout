@@ -1,0 +1,282 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#f5f8ff;
+
+    color:#172033;
+
+}
+
+
+
+header{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:25px 8%;
+
+    background:white;
+
+}
+
+
+
+.logo{
+
+    font-size:32px;
+
+    font-weight:800;
+
+}
+
+
+.logo span{
+
+    color:#1677ff;
+
+}
+
+
+
+header a{
+
+    color:#1677ff;
+
+    font-weight:bold;
+
+    text-decoration:none;
+
+}
+
+
+
+
+.pricing-page{
+
+    min-height:90vh;
+
+    text-align:center;
+
+    padding:70px 20px;
+
+}
+
+
+
+.pricing-page h1{
+
+    font-size:42px;
+
+    margin-bottom:15px;
+
+}
+
+
+
+.pricing-page p{
+
+    color:#667085;
+
+    font-size:18px;
+
+    margin-bottom:50px;
+
+}
+
+
+
+
+.plans{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:30px;
+
+    flex-wrap:wrap;
+
+}
+
+
+
+
+.plan-card{
+
+    background:white;
+
+    width:350px;
+
+    padding:40px;
+
+    border-radius:20px;
+
+    box-shadow:
+    0 15px 40px rgba(0,0,0,.08);
+
+    position:relative;
+
+}
+
+
+
+
+.plan-card h2{
+
+    font-size:30px;
+
+    margin-bottom:20px;
+
+}
+
+
+
+
+.price{
+
+    font-size:45px;
+
+    font-weight:800;
+
+    color:#1677ff;
+
+    margin-bottom:30px;
+
+}
+
+
+
+.price span{
+
+    font-size:18px;
+
+    color:#667085;
+
+    font-weight:normal;
+
+}
+
+
+
+
+.plan-card ul{
+
+    list-style:none;
+
+    text-align:left;
+
+    margin-bottom:35px;
+
+}
+
+
+
+.plan-card li{
+
+    padding:10px 0;
+
+    color:#475467;
+
+}
+
+
+
+
+.plan-card button{
+
+    width:100%;
+
+    padding:16px;
+
+    border:none;
+
+    border-radius:12px;
+
+    background:#1677ff;
+
+    color:white;
+
+    font-size:16px;
+
+    font-weight:bold;
+
+    cursor:pointer;
+
+}
+
+
+
+
+.plan-card button:hover{
+
+    background:#095ed7;
+
+}
+
+
+
+
+
+.premium{
+
+    border:3px solid #1677ff;
+
+    transform:translateY(-10px);
+
+}
+
+
+
+.badge{
+
+    position:absolute;
+
+    top:-15px;
+
+    right:20px;
+
+    background:#1677ff;
+
+    color:white;
+
+    padding:7px 15px;
+
+    border-radius:20px;
+
+    font-size:13px;
+
+    font-weight:bold;
+
+}
+
+
+
+
+@media(max-width:768px){
+
+    .pricing-page h1{
+
+        font-size:32px;
+
+    }
+
+
+    .plan-card{
+
+        width:100%;
+
+    }
+
+}
