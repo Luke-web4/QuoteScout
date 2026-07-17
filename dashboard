@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>QuoteScout Owner Dashboard</title>
+
+<link rel="stylesheet" href="admin.css">
+
+</head>
+
+
+<body>
+
+
+<div class="dashboard">
+
+
+    <!-- SIDEBAR -->
+
+    <aside class="sidebar">
+
+        <div class="logo">
+            <span>Quote</span>Scout
+        </div>
+
+
+        <h3>
+            Owner Panel
+        </h3>
+
+
+        <a href="#">
+            Dashboard
+        </a>
+
+        <a href="#">
+            Contractors
+        </a>
+
+        <a href="#">
+            Payments
+        </a>
+
+        <a href="#">
+            Leads
+        </a>
+
+        <a href="#">
+            Settings
+        </a>
+
+
+        <button id="logout">
+            Logout
+        </button>
+
+
+    </aside>
+
+
+
+
+
+    <!-- MAIN CONTENT -->
+
+    <main class="main">
+
+
+        <h1>
+            Welcome Back, Owner
+        </h1>
+
+
+        <p class="subtitle">
+            Manage QuoteScout's growth and revenue.
+        </p>
+
+
+
+
+
+        <!-- STATS -->
+
+
+        <section class="stats">
+
+
+            <div class="stat-card">
+
+                <h3>
+                    Monthly Revenue
+                </h3>
+
+                <strong>
+                    $0
+                </strong>
+
+            </div>
+
+
+
+
+            <div class="stat-card">
+
+                <h3>
+                    Active Contractors
+                </h3>
+
+                <strong>
+                    0
+                </strong>
+
+            </div>
+
+
+
+
+
+            <div class="stat-card">
+
+                <h3>
+                    Pending Applications
+                </h3>
+
+                <strong>
+                    0
+                </strong>
+
+            </div>
+
+
+
+
+
+            <div class="stat-card">
+
+                <h3>
+                    Customer Requests
+                </h3>
+
+                <strong>
+                    0
+                </strong>
+
+            </div>
+
+
+
+        </section>
+
+
+
+
+
+
+
+
+        <!-- REVENUE BREAKDOWN -->
+
+
+        <section class="panel">
+
+
+            <h2>
+                Subscription Revenue
+            </h2>
+
+
+            <div class="revenue-box">
+
+
+                <div>
+
+                    <h3>
+                        Starter Members
+                    </h3>
+
+                    <p>
+                        0 × $50/month
+                    </p>
+
+
+                </div>
+
+
+
+                <div>
+
+                    <h3>
+                        Premium Members
+                    </h3>
+
+                    <p>
+                        0 × $120/month
+                    </p>
+
+
+                </div>
+
+
+
+            </div>
+
+
+        </section>
+
+
+
+
+
+
+
+
+
+
+        <!-- APPLICATIONS -->
+
+
+        <section class="panel">
+
+
+            <h2>
+                Contractor Applications
+            </h2>
+
+
+            <table>
+
+
+                <tr>
+
+                    <th>
+                        Business
+                    </th>
+
+
+                    <th>
+                        Service
+                    </th>
+
+
+                    <th>
+                        Status
+                    </th>
+
+
+                </tr>
+
+
+                <tr>
+
+                    <td>
+                        No applications yet
+                    </td>
+
+
+                    <td>
+                        -
+                    </td>
+
+
+                    <td>
+                        -
+                    </td>
+
+
+                </tr>
+
+
+            </table>
+
+
+        </section>
+
+
+
+
+
+
+
+
+
+        <!-- PAYMENTS -->
+
+
+        <section class="panel">
+
+
+            <h2>
+                Recent Payments
+            </h2>
+
+
+            <table>
+
+
+                <tr>
+
+                    <th>
+                        Contractor
+                    </th>
+
+                    <th>
+                        Plan
+                    </th>
+
+                    <th>
+                        Amount
+                    </th>
+
+                </tr>
+
+
+
+                <tr>
+
+                    <td>
+                        No payments yet
+                    </td>
+
+                    <td>
+                        -
+                    </td>
+
+                    <td>
+                        -
+                    </td>
+
+
+                </tr>
+
+
+            </table>
+
+
+        </section>
+
+
+
+
+
+
+    </main>
+
+
+
+</div>
+
+
+
+
+<script src="admin.js"></script>
+
+
+</body>
+
+</html>
